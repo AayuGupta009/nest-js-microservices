@@ -46,6 +46,7 @@ This repository showcases a scalable microservices architecture built with NestJ
 
 ```bash
 git clone https://github.com/AayuGupta009/nest-js-microservices.git
+```bash
 
 ## Install dependencies
 
