@@ -58,11 +58,13 @@ cd ../notification-service
 npm install
 cd ../api-gateway
 npm install
+```bash
 
 ## Run the services
 
 ```bash
 docker-compose up --build
+```bash
 
 ## Access the API Gateway
 The API Gateway will be available at http://localhost:3000.
